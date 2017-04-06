@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'THSarabun';
+    src: url('../fonts/THSarabun Bold.ttf');
+}
+body *{font-family: THSarabun;}
+span.require{color : red;}
+legend{
+    font-size: 24px;
+    font-weight:bold;
+}
+fieldset *:not(legend){
+    font-size: 19px;
+}
