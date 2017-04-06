@@ -1,0 +1,3 @@
+- PHP 5.6
+- MYSQL 
+- Apache2
